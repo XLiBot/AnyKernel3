@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=xxx Moonlight Kernel EAS for XiaoMi sdm660 xxx
+kernel.string=Moonlight Kernel (EAS)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
