@@ -4,18 +4,18 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Moonlight Kernel (EAS)
+kernel.string=•YOU JOIN AT THIS KERNEL•
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=whyred
+device.name1=lavender
 device.name2=lavender
-device.name3=jasmine
-device.name4=jasmine_sprout
-device.name5=wayne
-device.name6=tulip
+device.name3=lavender
+device.name4=lavender
+device.name5=lavender
+device.name6=lavender
 supported.versions=9 - 11
 supported.patchlevels=
 '; } # end properties
