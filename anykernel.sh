@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=•YOU JOIN AT THIS KERNEL•
+kernel.string=•SeeAli•
 do.devicecheck=1
 do.modules=0
 do.systemless=1
